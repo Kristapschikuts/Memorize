@@ -22,6 +22,10 @@
 		FA37274F261C91E000E6341B /* Themes.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA37274E261C91E000E6341B /* Themes.swift */; };
 		FA372753262739AD00E6341B /* Pie.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA372752262739AD00E6341B /* Pie.swift */; };
 		FA372757262741F300E6341B /* Cardify.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA372756262741F300E6341B /* Cardify.swift */; };
+		FA3727EC2632F80200E6341B /* UIColor+Equals.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3727EB2632F80200E6341B /* UIColor+Equals.swift */; };
+		FA3727EF2632F90400E6341B /* EmojiMemoryGameStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3727EE2632F90400E6341B /* EmojiMemoryGameStore.swift */; };
+		FA3727F22632F92F00E6341B /* EmojiMemoryGameChooser.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3727F12632F92F00E6341B /* EmojiMemoryGameChooser.swift */; };
+		FA3727F52632F97800E6341B /* EditableThemeList.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3727F42632F97800E6341B /* EditableThemeList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +46,10 @@
 		FA37274E261C91E000E6341B /* Themes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Themes.swift; sourceTree = "<group>"; };
 		FA372752262739AD00E6341B /* Pie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pie.swift; sourceTree = "<group>"; };
 		FA372756262741F300E6341B /* Cardify.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cardify.swift; sourceTree = "<group>"; };
+		FA3727EB2632F80200E6341B /* UIColor+Equals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+Equals.swift"; sourceTree = "<group>"; };
+		FA3727EE2632F90400E6341B /* EmojiMemoryGameStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiMemoryGameStore.swift; sourceTree = "<group>"; };
+		FA3727F12632F92F00E6341B /* EmojiMemoryGameChooser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiMemoryGameChooser.swift; sourceTree = "<group>"; };
+		FA3727F42632F97800E6341B /* EditableThemeList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditableThemeList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,11 +89,15 @@
 				FA372752262739AD00E6341B /* Pie.swift */,
 				FA37273A2614847200E6341B /* MemoryGame.swift */,
 				FA3727292614611D00E6341B /* EmojiMemoryGameView.swift */,
+				FA3727EE2632F90400E6341B /* EmojiMemoryGameStore.swift */,
+				FA3727F12632F92F00E6341B /* EmojiMemoryGameChooser.swift */,
 				FA372756262741F300E6341B /* Cardify.swift */,
 				FA37273D26148BBD00E6341B /* EmojiMemoryGame.swift */,
+				FA3727F42632F97800E6341B /* EditableThemeList.swift */,
 				FA372748261C695000E6341B /* Array+Identifiable.swift */,
 				FA37274B261C7ABD00E6341B /* Array+ONly.swift */,
 				FA37274E261C91E000E6341B /* Themes.swift */,
+				FA3727EB2632F80200E6341B /* UIColor+Equals.swift */,
 				FA37272B2614611F00E6341B /* Assets.xcassets */,
 				FA3727302614611F00E6341B /* LaunchScreen.storyboard */,
 				FA3727332614611F00E6341B /* Info.plist */,
@@ -177,13 +189,17 @@
 				FA37274C261C7ABD00E6341B /* Array+ONly.swift in Sources */,
 				FA37274F261C91E000E6341B /* Themes.swift in Sources */,
 				FA37273B2614847200E6341B /* MemoryGame.swift in Sources */,
+				FA3727EC2632F80200E6341B /* UIColor+Equals.swift in Sources */,
 				FA37272A2614611D00E6341B /* EmojiMemoryGameView.swift in Sources */,
+				FA3727F22632F92F00E6341B /* EmojiMemoryGameChooser.swift in Sources */,
 				FA372757262741F300E6341B /* Cardify.swift in Sources */,
 				FA37273E26148BBD00E6341B /* EmojiMemoryGame.swift in Sources */,
 				FA372749261C695000E6341B /* Array+Identifiable.swift in Sources */,
+				FA3727F52632F97800E6341B /* EditableThemeList.swift in Sources */,
 				FA372753262739AD00E6341B /* Pie.swift in Sources */,
 				FA372746261C55F700E6341B /* GridLayout.swift in Sources */,
 				FA372743261C467700E6341B /* Grid.swift in Sources */,
+				FA3727EF2632F90400E6341B /* EmojiMemoryGameStore.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
